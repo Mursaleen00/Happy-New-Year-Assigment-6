@@ -1,0 +1,30 @@
+body {
+    background-image: url("https://bit.ly/3Q5OFNF");
+    background-repeat: repeat-x;
+    height: 100%;
+}
+
+span {
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+
+td,
+a {
+    color: rgb(0, 102, 255);
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+strong {
+    color: aliceblue;
+    position: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
